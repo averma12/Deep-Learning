@@ -16,4 +16,10 @@ Word2vec using numpy.ipynb in this repo
 #Day4 16th July
 Read the word analogy part of trask's book and revised concepts learned in prevous three days
 
+## 20th July
+Revised Linear Algebra. Basis vectors and covariance matrix.
+Read up on Viola Jones Algorithm - Haar Filters.
+
+
+
 
