@@ -20,6 +20,8 @@ Read the word analogy part of trask's book and revised concepts learned in prevo
 Revised Linear Algebra. Basis vectors and covariance matrix.
 Read up on Viola Jones Algorithm - Haar Filters.
 
-
+## 21st July
+Extended on basics of Linear Algebra. More on vectors and matrices.
+Read an article on using complex numbers in deep learning.
 
 
