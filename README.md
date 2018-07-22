@@ -24,4 +24,9 @@ Read up on Viola Jones Algorithm - Haar Filters.
 Extended on basics of Linear Algebra. More on vectors and matrices.
 Read an article on using complex numbers in deep learning.
 
+## 22nd July
+Revised basics of matplotlib.
+Used matplotlib in basic image rendering.
+Loaded data using numpy.
+
 
