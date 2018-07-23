@@ -29,4 +29,11 @@ Revised basics of matplotlib.
 Used matplotlib in basic image rendering.
 Loaded data using numpy.
 
+## 23rd July
+Dived deeper into matplotlib.Some quizzes
+Read up on posenet
+https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23
+Will need to read again very interesting.
+
+
 
