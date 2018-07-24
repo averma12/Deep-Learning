@@ -35,5 +35,12 @@ Read up on posenet
 https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23
 Will need to read again very interesting.
 
+## 24th July
+Loss Functions
+https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c
+https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d
+Basics of probability
+
+
 
 
