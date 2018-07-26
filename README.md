@@ -41,6 +41,9 @@ https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algor
 https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d
 Basics of probability
 
+## 25th July
+Started Computer vision course udacity.
+Visualising images and pixels and colour channels revision
 
 
 
