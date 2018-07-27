@@ -45,5 +45,10 @@ Basics of probability
 Started Computer vision course udacity.
 Visualising images and pixels and colour channels revision
 
+## 26th July
+Probability Distributions
+Different forms of entropy
+Computer Vision basics HSV,RGB and BGR. Blue screen
+
 
 
