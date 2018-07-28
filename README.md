@@ -50,5 +50,13 @@ Probability Distributions
 Different forms of entropy
 Computer Vision basics HSV,RGB and BGR. Blue screen
 
+## 27th July
+Data preprocessing using pandas
+Kaggle competition data preprocessing for Taxi data
+
+## 28th July
+Statistics and probability assignment
+
+
 
 
