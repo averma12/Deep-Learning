@@ -57,6 +57,17 @@ Kaggle competition data preprocessing for Taxi data
 ## 28th July
 Statistics and probability assignment
 
+## 29th July
+RGB and HSV colours for computer vision.
+Statistics 
+Siraj's video . Data preprocess step.
+
+## 30th July
+Decision Trees basics and math
+Feature extraction.Build a basic image classifier to distinguish between day and night images.
+Image standardization
+
+
 
 
 
