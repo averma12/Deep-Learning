@@ -67,6 +67,10 @@ Decision Trees basics and math
 Feature extraction.Build a basic image classifier to distinguish between day and night images.
 Image standardization
 
+## 31st July
+Image Filters
+Pillow Library
+
 
 
 
