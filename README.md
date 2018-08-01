@@ -71,6 +71,12 @@ Image standardization
 Image Filters
 Pillow Library
 
+## 1st August
+Created image pipeline with sample dataset,matplotlib,numpy,pandas and PIL library
+Started Fourier transforms for image processing
+
+
+
 
 
 
