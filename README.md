@@ -75,6 +75,10 @@ Pillow Library
 Created image pipeline with sample dataset,matplotlib,numpy,pandas and PIL library
 Started Fourier transforms for image processing
 
+## 2nd August
+Image Filters and Kernels
+Viola Jones algorithm overview
+
 
 
 
