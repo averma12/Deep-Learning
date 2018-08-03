@@ -79,6 +79,10 @@ Started Fourier transforms for image processing
 Image Filters and Kernels
 Viola Jones algorithm overview
 
+## 3rd August
+Image filters and applying fourier transforms to find out filter properties
+Applied fourier transform to custom images
+
 
 
 
