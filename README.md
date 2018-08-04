@@ -83,6 +83,11 @@ Viola Jones algorithm overview
 Image filters and applying fourier transforms to find out filter properties
 Applied fourier transform to custom images
 
+## 4th August
+Transfer Learning and examples in transfer learning
+Canny edge detection
+Hough Transform
+
 
 
 
