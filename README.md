@@ -88,6 +88,12 @@ Transfer Learning and examples in transfer learning
 Canny edge detection
 Hough Transform
 
+## 5th August
+Hough Transform on images
+Algorithm of hough transform
+Hough Circles.
+
+
 
 
 
