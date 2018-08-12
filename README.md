@@ -93,6 +93,26 @@ Hough Transform on images
 Algorithm of hough transform
 Hough Circles.
 
+## 6th August
+Contour Detection
+Harris Corner
+
+## 7th August
+K-means clustering
+Unsupervised learning reading
+
+## 8th August
+Podcast weapon of Math destruction
+
+## 9th August
+Matplotlib OO
+
+## 10th August
+K means implementation from scratch
+
+## 11th August
+Revision of weekly concepts
+Similarity Measures
 
 
 
