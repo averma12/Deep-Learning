@@ -114,6 +114,24 @@ K means implementation from scratch
 Revision of weekly concepts
 Similarity Measures
 
+## 12th August
+K means from scratch in jupyter notebook
+
+## 13th August
+Convert tf-idf into class for reuse into a problem
+
+## 14th August
+Decision tree algorithm implementation from scratch
+
+## 15th August
+Completed Decision tree implementaiton from scratch
+
+## 16th August
+Network Analysis for python course on datacamp
+
+## 17th August
+Revised Pandas library from datacamp course
+
 
 
 
