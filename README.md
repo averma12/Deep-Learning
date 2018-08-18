@@ -132,6 +132,11 @@ Network Analysis for python course on datacamp
 ## 17th August
 Revised Pandas library from datacamp course
 
+## 18th August
+Used pandas for exploratory data analysis
+Explored other python libraries like request and pathlib.
+Goal for tomorrow use all 3 to collect data.
+
 
 
 
