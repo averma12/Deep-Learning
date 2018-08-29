@@ -137,6 +137,47 @@ Used pandas for exploratory data analysis
 Explored other python libraries like request and pathlib.
 Goal for tomorrow use all 3 to collect data.
 
+## 19th August
+Pytorch basics
+basic NN using Pytorch
+
+## 20th August
+MNIST using Pytorch
+Fashion MNIST using Pytorch
+
+## 21st August
+Visualizing Convolutional Neural Networks
+Udacity CVND
+Activation Maps
+
+## 22nd August
+Transfer learning
+
+## 23rd August
+Datacamp's course on Matplotlib, pandas and mumpy
+
+## 24th August
+Finished Datacamp course on matplotlib,pandas and numpy
+
+## 25th August
+Udacity CVND project on Detecting facial keypoints
+Downloaded data and visualized keypoints
+
+## 26th August
+Completed the convolutional neural network for detecting keypoints
+Used NaimishNet architecture
+
+## 27th August
+Completed The project visualizing the keypoints on test data
+Error of 0.08
+
+## 28th August
+Python revision and revision of project submitted
+
+## 29th August
+Held a session to my peers to introduce them to ML and Deep Learning
+
+
 
 
 
