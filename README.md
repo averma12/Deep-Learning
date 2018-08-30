@@ -177,6 +177,11 @@ Python revision and revision of project submitted
 ## 29th August
 Held a session to my peers to introduce them to ML and Deep Learning
 
+## 30th August
+Waiting for udacity review to upload project
+Revision of python data science toolbox from datacamp
+Goal for tommorow RNN start
+
 
 
 
