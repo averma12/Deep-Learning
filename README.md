@@ -182,6 +182,15 @@ Waiting for udacity review to upload project
 Revision of python data science toolbox from datacamp
 Goal for tommorow RNN start
 
+## 31st
+Rest day
+
+## 1st
+YOLO and RCNN
+
+## 2nd
+Implementation of YOLO
+
 
 
 
