@@ -182,14 +182,19 @@ Waiting for udacity review to upload project
 Revision of python data science toolbox from datacamp
 Goal for tommorow RNN start
 
-## 31st
+## 31st August
 Rest day
 
-## 1st
+## 1st September
 YOLO and RCNN
 
-## 2nd
+## 2nd September
 Implementation of YOLO
+
+## 3rd September
+RNN
+Forward prop
+1 half of Back propagation through time
 
 
 
