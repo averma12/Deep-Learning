@@ -196,6 +196,20 @@ RNN
 Forward prop
 1 half of Back propagation through time
 
+## 4th September
+Finished Backpropagation through time of RNN
+Revised RNN
+
+## 5th September
+Python Data ToolBox revision
+
+## 6th September
+LSTM introduction
+
+## 7th September
+Rest Day
+
+
 
 
 
