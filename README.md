@@ -209,6 +209,11 @@ LSTM introduction
 ## 7th September
 Rest Day
 
+## 8th September
+Learnt the Math and the Logic behind LSTM.
+Udacity and Chris Olah.
+Trying to use LSTM in POS tagging
+
 
 
 
