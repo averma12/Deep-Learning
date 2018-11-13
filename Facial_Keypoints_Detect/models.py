@@ -23,6 +23,9 @@ class Net(nn.Module):
         self.conv2 = nn.Conv2d(32,64,3)
         self.conv3 = nn.Conv2d(64,128,2)
         self.conv4 = nn.Conv2d(128,256,1)
+        self.bn_1 = nn.BatchNorm2d(1)
+        self.bn_2 = nn.BatchNorm2d(32)
+        self.bn_3 = nn.BatchNorm2d(64)
         
         ## Note that among the layers to add, consider including:
         # maxpooling layers, multiple conv layers, fully-connected layers, and other layers (such as dropout or batch 
@@ -41,11 +44,11 @@ class Net(nn.Module):
         
         ## TODO: Define the feedforward behavior of this model
         ## x is the input image and, as an example, here you may choose to include a pool/conv step:
-        x = self.pool(F.relu(self.conv1(x)))
+        x = self.pool(F.relu(self.bn_1(self.conv1(x))))
         x = self.convDropOut(x)
-        x = self.pool(F.relu(self.conv2(x)))
+        x = self.pool(F.relu(self.bn_2(self.conv2(x))))
         x = self.convDropOut(x)
-        x = self.pool(F.relu(self.conv3(x)))
+        x = self.pool(F.relu(self.bn_3(self.conv3(x))))
         x = self.convDropOut(x)
         x = self.pool(F.relu(self.conv4(x)))
         x = self.convDropOut(x)
